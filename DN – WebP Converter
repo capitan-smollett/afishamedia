@@ -1,1 +1,8 @@
-
+/**
+ * Plugin Name: DN – WebP Converter (No Originals)
+ * Description: Конвертирует JPEG/PNG в WebP, удаляет оригиналы, перемещает в /uploads/YYYY/, обновляет ссылки в постах, показывает % сжатия и даёт ручную конвертацию в Медиа-библиотеке.
+ * Version: 1.2.0
+ * Author: DiasporaDev
+ * Requires at least: 6.2
+ * Requires PHP: 7.4
+ */
